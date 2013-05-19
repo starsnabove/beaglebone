@@ -15,7 +15,7 @@ gpmc_ad9 mode 4 activates ehrpwm2B - ehrpwm.2:1 - port8-13
 ecap0_in_pwm0_out mode 0 activates ecap-pwm0 - ecap.0 - port 9-42
 mcasp0_ahclkr mode 4 activates ecap-pwm2 - ecap.2 - port9-28
 
-
+ecap.1 does not seem to exist
 
 
 to request send 1 to request
